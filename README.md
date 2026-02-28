@@ -1,6 +1,6 @@
-# revshell-rs v3.1
+# rhell
 
-Shell inversé TCP écrit en Rust pur, sans dépendances externes.
+Rev shell en Rust
 ---
 
 ## Architecture
